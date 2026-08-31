@@ -1,29 +1,29 @@
 {
-  "title": "Kamran Ahmed",
-  "subtitle": "Lead engineer at tradeling — tech guy with an entrepreneurial spirit and knack for getting things done",
+  "title": "杰子的个人博客",
+  "subtitle": "全栈开发｜记录技术与生活",
   "owner": {
-    "name": "Kamran Ahmed",
-    "email": "kamranahmed.se@gmail.com"
+    "name": "杰子",
+    "email": "1501971264@qq.com"
   },
   "social": {
-    "github": "kamranahmedse",
-    "medium": "kamranahmedse",
-    "twitter": "kamranahmedse"
+    "github": "fj211",
+    "medium": "",
+    "twitter": ""
   },
   "newsletter": {
-    "showTwitterBanner": true,
-    "currentCount": "2,000",
-    "revueUsername": "roadmapsh"
+    "showTwitterBanner": false,
+    "currentCount": "2000",
+    "revueUsername": ""
   },
   "seo": {
-    "title": "Kamran Ahmed",
-    "description": "Blog of a Software Engineer",
-    "author": "Kamran Ahmed",
+    "title": "杰子的个人博客",
+    "description": "全栈开发｜记录技术与生活",
+    "author": "杰子",
     "keywords": [
       "blog",
       "developer blog",
       "engineering blog"
     ]
   },
-  "cname": "kamranahmed.info"
+  "cname": ""
 }
